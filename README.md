@@ -1,2 +1,2 @@
-# CPPT_Hulchevska_YL_KI-36_7
+# CPPT_Hulchevska_YL_KI-36_1
 КЗП, Лабораторні роботи
