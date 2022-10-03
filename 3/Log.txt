@@ -1,0 +1,4 @@
+Bulb's X position: 5
+Bulb's Y position: -5
+Bulb brightness's is dark
+Bulb colour is warm
