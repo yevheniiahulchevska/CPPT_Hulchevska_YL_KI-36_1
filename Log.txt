@@ -1,2 +1,0 @@
-Bulb colour is green
-Bulb position is: x = 26; y = -7
